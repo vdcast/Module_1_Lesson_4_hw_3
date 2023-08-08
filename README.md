@@ -3,7 +3,7 @@
 
 Classes, objects, constructors.
 
-**Technical task:**
+**Task:**
 
 1. Make a Car class.
 2. It should have 3 fields: model(String), fuel consumption - number of liters of gasoline per 1 km, amount of gasoline in the tank.
