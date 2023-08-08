@@ -13,6 +13,8 @@ Classes, objects, constructors.
 6. In MainActivity make a cycle for driving. "Drive" until the end of gasoline.
 7. In the cycle, think over refueling in order to drive at least 1200 km.
 
+**Result:**
+
 1. Drive until the end of gasoline.
    
 ![image](https://github.com/vdcast/Module_1_Lesson_4_hw_3/assets/108469609/afef183b-0be7-48e3-8df8-74b29453d7ea)
